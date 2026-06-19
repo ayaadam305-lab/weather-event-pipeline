@@ -1,0 +1,9 @@
+city,country,temperature,feels_like,humidity,pressure,wind_speed,weather,description,timestamp,event_status
+London,GB,20.1,20.2,77,1014,4.02,Clear,clear sky,2026-06-19 23:26:02,MODIFY
+Paris,FR,23.6,23.8,68,1016,0.45,Clear,clear sky,2026-06-19 23:26:02,MODIFY
+Berlin,DE,21.7,22.0,79,1017,2.68,Clear,clear sky,2026-06-19 23:26:02,MODIFY
+Madrid,ES,22.7,23.0,76,1017,9.11,Clouds,overcast clouds,2026-06-19 23:26:02,POSTPONE
+Rome,US,28.4,31.7,72,1014,3.04,Clouds,broken clouds,2026-06-19 23:26:02,MODIFY
+Amsterdam,NL,20.3,20.6,87,1014,5.36,Rain,very heavy rain,2026-06-19 23:26:02,POSTPONE
+Vienna,AT,23.1,23.3,71,1018,0.45,Clear,clear sky,2026-06-19 23:26:02,MODIFY
+Munich,DE,18.7,18.4,70,1020,4.11,Clouds,overcast clouds,2026-06-19 23:26:02,MODIFY
