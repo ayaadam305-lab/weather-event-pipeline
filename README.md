@@ -139,7 +139,7 @@ The dashboard has two pages:
 - **Operations Overview** — KPI cards (hottest city, average humidity), event status breakdown (GO/MODIFY/POSTPONE), and city-by-city weather comparisons.
 - **City Decision Center** — a city slicer with a live event decision card, letting the operations team filter to any single city and see its full weather profile instantly.
 
-*(Add dashboard screenshots here before submission.)*
+
 
 ---
 
